@@ -1,4 +1,4 @@
-# YT-DLP GUI Downloader  
+# Simple Youtube Downloader
 A modern YouTube downloader written in **Python + PyQt5**, supporting MP4, MP3, thumbnails, custom download folders, download queues, and a custom URL protocol: 
 ```
 ytdlp://<VIDEO_ID>
