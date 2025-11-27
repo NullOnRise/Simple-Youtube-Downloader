@@ -153,16 +153,14 @@ You can install all dependencies automatically using these remote commands:
 ### Linux / macOS
 
 ```bash
-bash <(curl -sSL https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/install.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/NullOnRise/Simple-Youtube-Downloader/main/install.sh)
 ```
 
 ### Windows
 
 ```cmd
-curl -L https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/install.cmd -o install.cmd && install.cmd
+curl -L https://raw.githubusercontent.com/NullOnRise/Simple-Youtube-Downloader/main/install.cmd -o install.cmd && install.cmd
 ```
-
-Replace `<YOUR_USERNAME>` and `<YOUR_REPO>` with your GitHub account details.
 
 ---
 
@@ -176,5 +174,3 @@ MIT License — free to use, modify, and distribute.
 
 Pull requests are welcome!
 If you'd like new features (themes, auto-updater, presets, etc.), create an issue.
-
-```
