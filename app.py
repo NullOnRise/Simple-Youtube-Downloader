@@ -125,7 +125,7 @@ class MainWindow(QMainWindow):
     def __init__(self, initial_special_url: str | None = None):
         super().__init__()
 
-        self.setWindowTitle("YT-DLP GUI Downloader")
+        self.setWindowTitle("Simple Youtube Downloader")
         self.resize(1000, 550)
 
         self.items = []
